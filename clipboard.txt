@@ -1,0 +1,1 @@
+Keep all textual data in version control, with distributed copies and repositories.

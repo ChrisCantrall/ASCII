@@ -1,2 +1,2 @@
 # ASCII
-All the text files.
+Move text files from NValt and Dropbox to git.
