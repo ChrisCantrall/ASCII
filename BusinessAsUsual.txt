@@ -1,0 +1,76 @@
+737MAX Resource Planning and Scheduling for Business as Usual
+
+# Bill Hogeboom's version
+1. Statement of Work
+2. Realistic Bottoms-Up estimate of resources.
+3. Arbitrary cut by Upper Management.
+4. Changes to Statement of Work.
+5. No extra Resources, "It's all in the sauce."
+6. Surprise!?!  Engineers can't get the job done.
+7. Beat up on Line Management and Engineers.
+8. Panic!!  Declare a "Crisis".  Define a "Recovery Plan".
+9. Add more resources (finally reach (2) too late).
+10. Work onerous OT.  (Especially key people.)
+11. Plead with Ops for forgiveness.
+12. Engineers finally make releases. (Feeling like failures in the process.)
+
+
+# The 737MAX version. 
+
+# Statement of Work, Mis-Stated
+Breadth & Depth of Projects is not communicated. Where management understands, they downplay. There is much they don’t understand; the result isn't conservative. 
+
+## Summary
+* Some certification paperwork.
+* A small change.
+* A slightly larger change.
+
+## Reality
+* 5 models to certify
+* 1 door with new mechanism that's never been done. (Or even evaluated!)
+* 1 completely new Door
+
+# NEW ENTRY – How many ways can a person be new to something? Or underqualified?
+1. New to the position / role.
+2. New to this type of project, as done by this position.
+3. New to running parallel & sequential projects.
+4. New to running parallel & sequential projects of this type. 
+5. New to the commodity.
+6. New to the skill.
+7. New to the company.
+
+# Realistic Bottoms-Up estimate of resources.
+Since you don't know the SoW, your estimate is necessarily wrong, but you also don't know what you need (What's an analysis plan?) or what it will take to do it. So you'd be wrong with good data. Thus, your estimate is laughably wrong. 
+
+# Arbitrary cut by Upper Management.
+When they pay attention, its because you're late or you've asked for something they don't like - like more people.
+
+# Changes to Statement of Work.
+* "Small change"? 
+
+# No extra Resources, "It's all in the sauce."
+
+WHILE (Alive) {
+
+# Surprise!?!  Engineers can't get the job done.
+
+
+# Beat up on Line Management and Engineers.
+[I honestly don't know if anyone actually checked on MAX doors.]
+
+# Panic!  Declare a "Crisis".  Define a "Recovery Plan".
+"We need a new lead!"
+
+# Add more resources (finally reach (2) too late).
+Well, let's not add people, see how that works. 
+
+# Work onerous OT.  (Especially key people.)
+"Daddy, why are you grumpy all the time?"
+"Daddy, why do you like to work so much?"
+
+# Plead with Ops for forgiveness.
+"Is there a limit to the number of supplemental releases we can make?"
+
+# Engineers finally make releases. (Feeling like failures in the process.)
+
+} # With minor variations, new lead isn't every loop, for instance.
