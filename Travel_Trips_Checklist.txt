@@ -1,3 +1,232 @@
 Travel and Trips Checklist
 
 Pre trip checklist includes downloading all files to all devices - Dropbox offline, GoodReader, iBooks, Dell from servers & PSDS, etc., ... 
+
+
+Everything after "****####****####" was fiddled with before the Proper Re-Work, but it might have a few good notes.
+
+****####****####
+
+
+
+##############
+
+Checklist_packing-additions.taskpaper
+
+Travel
+
+- moleskin (thin, thick, thicker)
+- scissors for moleskin 
+- facial sunscreen to go with body sunscreen 
+- wet wipes
+- shampoo - seriously, buy / find 2 travel bottles
+- bandaids 
+- neosporin, etc
+
+##############
+
+Travel-Checklist_Packing.md
+
+Travel Checklist - Packing
+
+* TRAVEL PACKING LIST, CARRY-ON BAGGAGE
+Alaska Airlines: You're allowed one carry-on bag, which can measure up to 10" H x 17" W x 24" L (25 x 43 x 61 cm) including wheels and handles, plus one personal item, such as a purse, briefcase or laptop computer. At least one of the items should be stowed under the seat in front of you. http://www.alaskaair.com/as/www2/help/faqs/CarryOnBaggage.asp
+
+* TRAVEL PACKING LIST, DON'T LOSE MIND
+book or magazine or printed material for no-electronics part of flight
+
+* TRAVEL PACKING LIST, GADGET ACCESSORIES
+chargers
+	iPhone/iPod/USB brick
+	AA/AAA (fold-flat, stick-to-wall)
+	Nikon D300 (stick-to-wall)
+cables
+	USB to mini-USB (CF card reader, mophie charger, Kindle?)
+	USB to iPhone/iPod
+	Power extender & expander
+	2nd headphones
+batteries
+	AA
+	AAA
+	Nikon D300
+	Richard Solo (iPhone)
+
+* TRAVEL PACKING LIST, GADGETS
+iPhone & iPhone headphones
+iPod, 60 GB hard drive version
+Bose headphones
+USB memory sticks (local backup on the road)
+MacBook Pro, power cable(s), iBooq case, screen cleaning cloth
+ethernet cable?
+alarm clock
+Monocular in car
+
+* TRAVEL PACKING LIST, CAMERA
+Nikon D300 body
+18-200 mm lens
+50 mm lens
+Nikon battery grip
+compact flash cards & case
+CF card reader & cable
+POD bean bag base
+mini-tripod with velcro wrap
+Joby Gorillapod
+
+* TRAVEL PACKING LIST, TOILETRIES
+Quart bag with travel sizes of the following:
+toothbrush & toothpaste
+deodorant
+shampoo
+shower soap
+electric razor or safety razor & shaving gel
+pills
+Sunscreen (SPF 45 nutragena dry-touch)
+Face sunscreen
+lip balm
+medication
+vitamins
+bug spray
+towel
+Earplugs
+
+* TRAVEL PACKING LIST, CLOTHES
+underwear - N 1
+socks - N 1
+shirts - N
+jeans - N-1 to N
+pajama-like clothes
+slacks
+belt
+tie(s)
+suit
+blazer ?
+exercise clothes
+handkerchief(s)
+
+* TRAVEL PACKING LIST, CLOTHES, OUTERWEAR
+jacket (rain / cold / both / overcoat)
+hat (sun / rain?)
+sweatshirt
+gloves
+poncho
+umbrella
+earmuffs?
+
+* TRAVEL PACKING LIST, CLOTHES, SHOES
+dress shoes
+hiking boots
+walking shoes (more than 1 pair?)
+
+* TRAVEL PACKING LIST, TRAVEL HELP
+dirty clothes bag, packing/airtight bags
+
+* TRAVEL PACKING LIST, PERSONAL EFFECTS
+sunglasses & case
+belt
+keys
+leatherman
+knife
+water bottle
+checkbook?
+passport?
+
+* TRAVEL PACKING LIST, FOOD
+Water (bottle)
+Nutrigrain bars
+Crackers
+Bagels
+
+* TRAVEL PACKING LIST, BAGS
+wheeled carry-on
+computer bag
+camera bag - travel
+camera bag - carry-around
+spare duffel for checking on homeward bound leg?
+suit bag
+
+* TRAVEL PACKING LIST, OFFICE SUPPLIES
+business cards
+pens (2)
+pencils (2)
+scratch paper
+micro-office kit (paper clips, binder clips, rubber bands)
+Levenger portable-office paper holder (black)
+
+##############
+
+Travel-Checklist_Preparation
+
+
+Travel Checklist - Preparation
+
+Copied from REF/C/Checklists, dated 15 Feb 2010.
+
+* TRAVEL PREPARATION, 3 DAYS BEFORE TRAVEL
+Go through the rest of the Packing Checklists.
+Do I need any info on the destination?
+ Maps, recommendations, directions, weather?
+Flip through upcoming Tickler file and Calendars. Anything to take care of early?
+ Duration of trip   0.5*N days (at least 1 day for recovery)
+Arrange mail & packages with office & USPS.
+Wash dishes
+Get travel cash from ATM.
+Purchase any necessary travel insurance
+Research public photography laws in destination, put in Evernote
+Put vitamins in baggy.
+Put pain meds in another baggy.
+Load iPad with PDFs or ePubs
+Start Laundry.
+Watch as much stuff on DVR as possible.
+Go through Travel Kit - replenish?
+Charge batteries
+Reserve Shuttle to airport
+
+* TRAVEL PREPARATION, 1 DAY BEFORE TRAVEL
+Fill car's gas tank.
+Take out Trash
+Backup files - take drive offsite
+Print boarding pass for flight (also put in Dropbox)
+Print hotel address, phone number, confirmation number (also put in Evernote)
+Print route to airport / train station
+Check DVR, cancel repeat recordings of 'new' shows.
+  DVR has ~26 hours of capacity, will it last the trip?  With Redeye?
+Any more Laundry to do?  Do it.
+Get mail.
+Set Out Of Office message & change voice mail.
+
+* TRAVEL PREPARATION, NIGHT BEFORE TRAVEL
+Charge laptop
+Charge and sync iPhone
+Charge and sync iPad
+Cloud-sync everything
+ OmniFocus
+ Evernote
+ Mail
+Backup files - time machine onsite.
+Empty wallet of unnecessary cards
+Remove unnecessary keys from keychain
+If flying, change pocket & belt stuff
+Set out travel clothes for the next day
+Put list of emergency contact information in wallet (also put in Evernote)
+Put boarding pass in bag
+Put hotel information in bag
+Put route to airport / train station in bag
+Finish Laundry.  Pack it.
+
+* TRAVEL PREPARATION, DAY OF TRAVEL
+Turn off heater
+Turn off & unplug computers
+
+* TRAVEL PREPARATION, DAY OF COMING BACK
+Unpack
+Do laundry
+Empty suitcase, check pockets, put away.
+
+* TRAVEL PREPARATION, WEEK AFTER COMING BACK
+Go through Travel Kit - replenish?
+Go through the Packing Checklists, do they need updating?
+
+##############
+
+
+
