@@ -1,7 +1,6 @@
 GIT - All-the-Rules.md
 DROPBOX FILENAME : All the Rules.md
 
-
 All the Rules I have collected that are not my personal rules
 
  _ _ _  _ _ _  _ _ _  _ _ _ 
