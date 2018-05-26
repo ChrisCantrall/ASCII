@@ -1,6 +1,6 @@
-GTD Journal
+DROPBOX FILENAME : GTD_Journal.md
 
- _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _ 
+ _ _ _  _ _ _  _ _ _  _ _ _ 
 DROPBOX FILENAME : 20130312_20-15-35.md
 
 
@@ -10,11 +10,12 @@ The Weekly Confrontation is aptly named. Yuck. It's tough to confront how I'm fa
 
 That, and the DO part of Collect, Process, Organize, Review, Do.
 
- _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _ 
+ _ _ _  _ _ _  _ _ _  _ _ _ 
 
 tags
 
 GTDx
 review
 
- _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _  _ _ _ 
+ _ _ _  _ _ _  _ _ _  _ _ _ 
+
