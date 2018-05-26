@@ -1,4 +1,5 @@
 GIT - clipboard.md
+
 A working document, aimed at improving / perfecting my system of files.
 
 * Easy access to reference data.
