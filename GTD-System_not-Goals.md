@@ -1,14 +1,12 @@
-DROPBOX FILENAME : GTD-System_not-Goals.md
-
-
+GIT - GTD-System_not-Goals.md
 Ideas for GTD, growth, Systems not Goals, etc.
 
-****
+ _ _ _  _ _ _  _ _ _  _ _ _ 
 
 Dr. Drang, May 2018
 At the beginning of every month, I make a new TaskPaper document, filling it with the uncompleted tasks from the previous month. In this way, the documents from the previous months are a record of what I was planning to do and what I finished.
 
-****
+ _ _ _  _ _ _  _ _ _  _ _ _ 
 
 Weekly Rhythm to Keep Moving on Long Term projects / topics. 
 
@@ -30,4 +28,5 @@ Flexibility on :
 - [ ] today vs tomorrow vs next week (Do Not skip a 2nd week.)
 - [ ] but keep track of when I skipped, it's a signal of overload I can use with Management
 
-****
+ _ _ _  _ _ _  _ _ _  _ _ _ 
+
