@@ -1,4 +1,4 @@
-DROPBOX FILENAME : GTD_Journal.md
+GIT - GTD_Journal.md
 
  _ _ _  _ _ _  _ _ _  _ _ _ 
 DROPBOX FILENAME : 20130312_20-15-35.md
