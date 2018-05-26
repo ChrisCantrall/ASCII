@@ -1,3 +1,4 @@
+GIT - miscx_Notes_on_iPad.txt
 Notes on iPad. 
 
 ****
@@ -15,7 +16,7 @@ working-copy://x-callback-url/write?text=[[draft]]&append=1&path=TODO&x-success=
 
 Vini, vidi, ??? 
 "I came, I saw, I made it awkward."
-
+ 
 ****
 
 YOU MIGHT BE AN ENGINEER IF...
