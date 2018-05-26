@@ -1,3 +1,5 @@
+GIT - brain-dump_2018-05-23.txt
+
 - My heart is lonely.
 - Stewardship means 
 	- Investing - like in a home or condo.
@@ -14,4 +16,3 @@
 	- I am avoiding. A lot. 
 - I need a flexible schedule / pattern that suggests things to do at appropriate intervals to maintain momentum on projects, and reduce total maintenance effort by keeping up with maintenance. (Clean bathroom every other week; even that is a bit much.) Like Management Monday and Filing Friday.
 	- Need record of when I've done ManMon, and when I've skipped, so guidelines like "Don't skip it twice in a row" are useful. (Not a record of what was done, just a trinary switch : Done, Not Done, No Record Created.) For Example : Script / Action updates _something_ with the recent performance history - ☑︎☒︎□︎ is Done, Not Done, No Data.
-- Text RJ to set up lunch.
