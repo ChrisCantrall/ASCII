@@ -1,7 +1,22 @@
 GIT - Travel_Trips_Checklist.txt
 Travel and Trips Checklist
 
-Pre trip checklist includes downloading all files to all devices - Dropbox offline, GoodReader, iBooks, Dell from servers & PSDS, etc., ... 
+Pre trip checklist includes ... 
+- Downloading all files to all devices.
+  - Dropbox offline
+  - GoodReader
+  - iBooks
+  - Dell from servers & PSDS, etc.
+- notify credit card companies 
+
+Post cruise action 
+- Review on TripAdvisor : 
+  - Skagway, Sweet Tooth Cafe
+  - Skagway, Dogsled demo
+  - Skagway, Paul, tour to Canada
+- Research.
+  - Statistics on general aviation & pilots licenses. How many airplanes are in AK? What portion of the world fleet?
+  - Vital data on the Island Princess, side thrusters, number of crew, lifeboats, etc.
 
 
  _ _ _  _ _ _  _ _ _  _ _ _ 
@@ -256,15 +271,11 @@ Everything after "****####****####" was fiddled with before the Proper Re-Work, 
 
 ****####****####
 
-
-
  _ _ _  _ _ _  _ _ _  _ _ _ 
 
 DROPBOX FILENAME : Checklist_packing-additions.taskpaper
 
-
 Travel
-
 - moleskin (thin, thick, thicker)
 - scissors for moleskin 
 - facial sunscreen to go with body sunscreen 
@@ -272,6 +283,10 @@ Travel
 - shampoo - seriously, buy / find 2 travel bottles
 - bandaids 
 - neosporin, etc
+- scissors
+- water bottle
+- coffee cup, non-spill
+- monopod for Nikon
 
  _ _ _  _ _ _  _ _ _  _ _ _ 
 
