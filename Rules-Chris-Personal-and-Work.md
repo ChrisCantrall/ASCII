@@ -2,7 +2,7 @@ GIT - Rules-Chris-Personal-and-Work.md
 DROPBOX FILENAME : Chris Personal Rules.md
 
 
-Chris Personal Rules
+Chris Personal and Work Rules
 
 00-10: Your Work
 11-20: Working with Others
@@ -16,7 +16,7 @@ Chris Personal Rules
 91-100:
 
 
-Character is the (sum|product) of each choice made on each day. 
+Character is the (sum|product ... PRODUCT ) of each choice made on each day. 
 You can always do better. And worse.
 
 
@@ -37,7 +37,7 @@ You can always do better. And worse.
 08. 
 09. 
 
-10. Sometimes the windmill loses. (Ralph S. Jackson III)
+10.
 11. Everyone makes mistakes.
 12.
 13. 
@@ -60,8 +60,8 @@ You can always do better. And worse.
 29.
 
 30.
-31. Set people up for success.
-32. You were not set up for success.
+31.
+32. You're in charge: if there's something wrong, you probably screwed up a while ago. (Rands?)
 33. You can delegate Authority, you can't delegate Responsibility. (Pete Scobell, SEAL)
 34.
 35.
@@ -71,8 +71,8 @@ You can always do better. And worse.
 39.
 
 40.
-41.
-42. Stupid hurts. Don't be stupid.
+41. Set people up for success.
+42. You were not set up for success.
 43.
 44.
 45.
@@ -82,7 +82,7 @@ You can always do better. And worse.
 49.
 
 50.
-51.
+51. Stupid hurts. Don't be stupid.
 52.
 53.
 54.
@@ -137,8 +137,12 @@ You can always do better. And worse.
 99.
 100.
 
+Sometimes the windmill loses. (Ralph S. Jackson III)
+
+Wish for a unicorn as much as you want. But when wishing for a pony, have a stable & some feed ready. Just in case. (Murdering the statement of Ralph S. Jackson III)
 
 When wishing for a pony, have a stable & some feed ready. Just in case. (paraphrase of Ralph S. Jackson III)
+
 
 Never cruel or cowardly. Never give up. Never give in. - The Doctors' promise, The Day of the Doctor.
 
@@ -162,14 +166,12 @@ http://qz.com/395577/the-three-step-plan-that-janet-yellen-and-stanford-football
 
 Slow is smooth. Smooth is fast.
 
-The expert did it better.
+The expert did it better than you can.
 (Reminder to not be too smart by requiring 0.20" inspection radius.)
 
 If you don't do something in house, where do you do it? ... - John Frey, 16 December 2013
 
 If you think getting it right is expensive, wait and see what happens when you get it wrong. - John Frey, 2013
-
-You're in charge: if there's something wrong, you probably screwed up a while ago.
 
 In the absence of information, people make shit up. - Michael Lopp, http://randsinrepose.com/archives/the-rands-test/
 
