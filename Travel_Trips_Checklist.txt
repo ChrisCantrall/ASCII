@@ -1,12 +1,18 @@
 GIT - Travel_Trips_Checklist.txt
 Travel and Trips Checklist
 
+
 Pre trip checklist includes ... 
 - Downloading all files to all devices.
   - Dropbox offline
   - GoodReader
   - iBooks
   - Dell from servers & PSDS, etc.
+- limit cellular use, change the day before
+  - iOS, Change Cellular Data settings, remove permissions 
+  - iOS, remove permission to background update
+  - MacOS, menu bar app for trips
+- put Connected PC Backup on hold
 - notify credit card companies 
 
 Post cruise action 
